@@ -67,7 +67,7 @@ currency-converter-api/
 ├── package.json                         # Dependencies & npm scripts
 ├── tsconfig.json                        # TypeScript compiler options
 ├── README.md                            # Project setup and user guide
-└── DOCUMENTATION.md                     # In-depth architectural & interview guide
+
 ```
 
 ---
